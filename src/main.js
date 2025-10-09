@@ -1,4 +1,9 @@
 import { Start } from './scenes/Start.js';
+import { CharacterSelect } from './scenes/CharacterSelect.js';
+import { MultiplayerClient } from './scenes/MultiplayerClient.js';
+import { CharacterCreate } from './scenes/CharacterCreate.js';
+import { PuzzleScene } from './scenes/PuzzleScene.js';
+
 
 const config = {
     type: Phaser.AUTO,
@@ -10,7 +15,11 @@ const config = {
     backgroundColor: '#000000',
     pixelArt: false,
     scene: [
-        Start
+        Start,
+        MultiplayerClient,
+        CharacterSelect,
+        CharacterCreate,
+        PuzzleScene // Add this line
     ],
     scale: {
         mode: Phaser.Scale.FIT,
@@ -18,5 +27,4 @@ const config = {
     },
 }
 
-new Phaser.Game(config);
-            
+new Phaser.Game(config);           
