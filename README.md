@@ -1,4 +1,4 @@
-# Introduction
+# PhaserProject
 
 A simple concept for a real-time combat 2D MMO built with JavaScript.
 
