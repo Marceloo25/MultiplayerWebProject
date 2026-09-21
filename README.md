@@ -1,15 +1,14 @@
 # PhaserProject
 
-A simple concept for a real-time combat 2D MMO built with JavaScript.
+A simple concept for a real-time combat 2D Multiplayer game built with JavaScript.
 
 ## Overview
 
-This is a multiplayer online game prototype that focuses on real-time combat mechanics in a 2D environment. Players can engage in dynamic PvP combat with other players in a shared game world.
+This is a multiplayer online game in development prototype that focuses on real-time gameplay mechanics in a 2D environment.
 
 ## Features
 
-- **Real-time Combat System** - Engage in fast-paced combat with other players
-- **2D Game World** - Explore and battle in a 2D environment
+- **Character Creator** - Customize and create your 2D character
 - **Multiplayer Support** - Play with other players in real-time
 - **Web-based** - Play directly in your browser
 
@@ -19,6 +18,7 @@ This is a multiplayer online game prototype that focuses on real-time combat mec
 - **Platform**: Web Browser
 
 ## Getting Started
+Open it in your favorite browser, I guess?
 
 ### Prerequisites
 
