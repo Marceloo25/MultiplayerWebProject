@@ -1,6 +1,7 @@
 # PhaserProject
 
-A simple concept for a real-time combat 2D Multiplayer game built with JavaScript.
+A simple concept for a real-time combat 2D Multiplayer game built with JavaScript. 
+**[Character Creator](https://youtu.be/8JW6e80-bK8Q)**
 
 ## Overview
 
